@@ -65,9 +65,8 @@
 
 ### UI UX 설계
 카카오 오븐으로 설계한 UI/UX 설계이다.
-![plogging-service](https://user-images.githubusercontent.com/41707077/142095088-de443566-9f33-4a56-ad80-5da4e87a6cc0.png)
-![challenge-service](https://user-images.githubusercontent.com/41707077/142095128-51c40d5a-9566-467b-808f-be3fcf7323a2.png)
-![ranking-service](https://user-images.githubusercontent.com/41707077/142095456-581c8c0b-950a-491c-b61f-be7267c788e0.png)
+![ui](https://user-images.githubusercontent.com/41707077/142130293-c0070751-4520-41a0-b905-040ebdba0800.png)
+
 
 ### 시퀀스 다이어그램
 회원가입 또는 로그인 후, 학교 인증을 진행해야 플로깅 서비스를 시작할 수 있다. 다음은 요구사항을 정의 시,  앱과 서버의 역할을 나누기 위해 논의한 내용을 표현한 시퀀스 다이어그램이다.
