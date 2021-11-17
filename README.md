@@ -53,7 +53,6 @@
 
 * Android
 * Node.js(Express)
-* SQLite
 * MySQL
 
 <p align="right"><a href="#top">▲맨 위로</a></p>
