@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://user-images.githubusercontent.com/41707077/142101954-c4d096ec-7233-4c8c-a710-b9cf308fa79b.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/41707077/142101954-c4d096ec-7233-4c8c-a710-b9cf308fa79b.png" alt="Logo" width="120" height="120">
   </a>
   <h1 align="center">캠퍼스 플로깅</h1>
 
@@ -26,14 +26,14 @@
     <li>
       <a href="#소개">소개</a>
       <ul>
-        <li><a href="#built-with">기술 스택</a></li>
+        <li><a href="#기술-스택">기술 스택</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">설계</a>
+      <a href="#설계">설계</a>
       <ul>
         <li><a href="#아키텍처">아키텍처</a></li>
-        <li><a href="#UI/UX-설계">UI/UX 설계</a></li>
+        <li><a href="#UI-UX-설계">UI/UX 설계</a></li>
         <li><a href="#시퀀스-다이어그램">시퀀스 다이어그램</a></li>
       </ul>
     </li>
@@ -49,15 +49,12 @@
 
 현재 단국대 학생을 한정하여 개발을 완료했다.
 
-주요 기능은 다음과 같다. 
-* 조깅 기록, 거리 측정 단위 지정 및 뱃지 부여
-* 쓰레기 정산
-* 챌린지
-
 ### 기술 스택
 
 * Android
 * Node.js(Express)
+* SQLite
+* MySQL
 
 <p align="right"><a href="#top">▲맨 위로</a></p>
 
@@ -66,7 +63,7 @@
 ### 아키텍처
 ![architecture](https://user-images.githubusercontent.com/41707077/142095536-fe4a4467-6e52-4ee6-aec4-e2567fab7261.PNG)
 
-### UI/UX 설계
+### UI UX 설계
 카카오 오븐으로 설계한 UI/UX 설계이다.
 ![plogging-service](https://user-images.githubusercontent.com/41707077/142095088-de443566-9f33-4a56-ad80-5da4e87a6cc0.png)
 ![challenge-service](https://user-images.githubusercontent.com/41707077/142095128-51c40d5a-9566-467b-808f-be3fcf7323a2.png)
@@ -79,10 +76,10 @@
 <p align="right"><a href="#top">▲맨 위로</a></p>
 
 ## Contact
-|역할|팀원|담당업무|이메일|
-|---|---|---||---|
-|팀장|[정윤아](https://github.com/yuna1212)|서버 개발 및 개발 설계 문서 작성|cya3559@naver.com
-|팀원|[강금실](https://github.com/Kang-Gumsil)|안드로이드 앱 개발|kanggumsil@naver.com
-|팀원|주세연|기획 및 UI/UX 설계|choosy1024@naver.com
+| 역할 | 이름 | 역할 | 이메일 |
+| ---- | -------| --- | --- |
+| 팀장 | [정윤아](https://github.com/yuna1212) | 서버 개발 | cya3559@naver.com
+| 팀원 | [강금실](https://github.com/Kang-Gumsil) | 안드로이드 앱 개발 | kanggumsil@naver.com
+| 팀원 | 주세연 | 기획 및 UI/UX 설계 | choosy1024@naver.com
 
 <p align="right"><a href="#top">▲맨 위로</a></p>
